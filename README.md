@@ -1,2 +1,2 @@
 # test_linux
-test linux for buildroot11
+test linux for buildroot!!
